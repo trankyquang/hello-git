@@ -1,3 +1,3 @@
-# hello-git
-# change
-đéo
+Đến cả con khỉ cũng hiểu được lệnh Git
+add: Đăng ký thay đổi trong index
+commit: Lưu lại trạng thái của index
